@@ -1,6 +1,6 @@
 # Chapter Two
 
-Here are some quick Markdown examples to get you started.
+Here are some quick Markua examples to get you started.
 
 To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
 
