@@ -1,3 +1,4 @@
+{community: true}
 # Chapter Two
 
 Here are some quick Markua examples to get you started.
