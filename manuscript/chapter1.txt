@@ -1,5 +1,3 @@
-{generate-community: true}
-
 {sample: true}
 # Chapter One
 
