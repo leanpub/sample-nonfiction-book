@@ -1,3 +1,4 @@
+{sample: true}
 # Chapter One
 
 This is an example of a Leanpub book formatted using our Nonfiction book template.
