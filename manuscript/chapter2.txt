@@ -1,5 +1,4 @@
 {community: true}
-
 # Chapter Two
 
 Writing in Markdown is easy! You can learn most of what you need to know with just a few examples.
