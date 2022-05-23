@@ -1,3 +1,3 @@
 # Chapter Three
 
-That's it for this brief introduction to Leanpub.
+That's it for this brief introduction to Leanpub! For guides to getting started on a new Leanpub book in any of our writing modes, please see [this article](http://help.leanpub.com/en/articles/3088382-quick-walkthroughs-for-getting-started-on-a-leanpub-book) from our Help Center.
